@@ -3,7 +3,6 @@ package DesignPatterns.Creational.AbstractFactory;
 public class AbstractFactoryPattern {
 
     // Economy Cars
-
     static class Alto {
         public void drive() {
             System.out.println("Driving Alto");
