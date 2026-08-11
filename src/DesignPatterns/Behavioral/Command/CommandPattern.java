@@ -1,4 +1,4 @@
-package DesignPatterns.Command;
+package DesignPatterns.Behavioral.Command;
 
 public class CommandPattern {
 
